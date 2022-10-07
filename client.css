@@ -1,0 +1,40 @@
+
+*{
+
+background-color: #FFF;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	list-style-type: none;
+	text-decoration: none;
+	font-family: 'Poppins' , sans-serif;
+
+
+}
+
+.navbar{
+
+		background-color: #F83333;
+	
+
+width: 1980px;
+height: 1020px;
+
+
+	justify-content: space-between;
+	padding: 0px 0px 30px;
+	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+	height: 50px;
+}
+	
+.navbar h1{
+	
+	font-size: 30;
+	
+
+	
+	
+	
+	 
+
+}
